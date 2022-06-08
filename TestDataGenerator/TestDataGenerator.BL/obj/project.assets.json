@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "TestDataGenerator.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/TestDataGenerator.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestDataGenerator.Data.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TestDataGenerator.Data/1.0.0": {
+      "type": "project",
+      "path": "../TestDataGenerator.Data/TestDataGenerator.Data.csproj",
+      "msbuildProject": "../TestDataGenerator.Data/TestDataGenerator.Data.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "TestDataGenerator.Data >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Dragon\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "G:\\Sasha\\Git\\TestDataGenerator\\TestDataGenerator\\TestDataGenerator.Data\\TestDataGenerator.Data.csproj": {
+              "projectPath": "G:\\Sasha\\Git\\TestDataGenerator\\TestDataGenerator\\TestDataGenerator.Data\\TestDataGenerator.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
