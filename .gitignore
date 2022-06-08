@@ -1,4 +1,5 @@
 #Ignore Folders
+.vs/
 
 TestDataGenerator.BL/bin/Debug/
 TestDataGenerator.BL/bin/Release/

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fKvxjvV/6A/813XIXy/tbEM0UTi6XKb8Z8c4ZgO2jj/v50MV16od6jUkjHxdkaV0elZet+UEijLFvCuUg8009Q==",
+  "dgSpecHash": "GJ8xfWo/02IZEOHVsQVoA1ZsVhW2DNe+nnWKCxvRU6bwHMeSIi02FOhb8qXgZUN6eIgitkIZo8Qyecgap3muNA==",
   "success": true,
   "projectFilePath": "G:\\Sasha\\Git\\TestDataGenerator\\TestDataGenerator\\TestDataGenerator.BL.Test\\TestDataGenerator.BL.Test.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dragon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dragon\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dragon\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }
