@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestDataGenerator.BL/1.0.0": {
+        "dependencies": {
+          "TestDataGenerator.Data": "1.0.0"
+        },
+        "runtime": {
+          "TestDataGenerator.BL.dll": {}
+        }
+      },
+      "TestDataGenerator.Data/1.0.0": {
+        "runtime": {
+          "TestDataGenerator.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDataGenerator.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestDataGenerator.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

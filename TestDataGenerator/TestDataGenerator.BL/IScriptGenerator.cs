@@ -7,8 +7,13 @@ using TestDataGenerator.Data;
 
 namespace TestDataGenerator.BL
 {
+    
     public interface IScriptGenerator
     {
+        /// <Note>
+        /// We are strarting our project from designing this interface
+        /// </Note>
+        /// 
         UserEntity GenerateUser();
         string GetValueLine(UserEntity entity);
         string GetHeaderLine();
