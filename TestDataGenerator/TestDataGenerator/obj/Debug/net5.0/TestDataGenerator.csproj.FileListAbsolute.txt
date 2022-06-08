@@ -1,0 +1,16 @@
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\bin\Debug\net5.0\TestDataGenerator.exe
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\bin\Debug\net5.0\TestDataGenerator.deps.json
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\bin\Debug\net5.0\TestDataGenerator.runtimeconfig.json
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\bin\Debug\net5.0\TestDataGenerator.runtimeconfig.dev.json
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\bin\Debug\net5.0\TestDataGenerator.dll
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\bin\Debug\net5.0\ref\TestDataGenerator.dll
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\bin\Debug\net5.0\TestDataGenerator.pdb
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\obj\Debug\net5.0\TestDataGenerator.csproj.AssemblyReference.cache
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\obj\Debug\net5.0\TestDataGenerator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\obj\Debug\net5.0\TestDataGenerator.AssemblyInfoInputs.cache
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\obj\Debug\net5.0\TestDataGenerator.AssemblyInfo.cs
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\obj\Debug\net5.0\TestDataGenerator.csproj.CoreCompileInputs.cache
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\obj\Debug\net5.0\TestDataGenerator.dll
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\obj\Debug\net5.0\ref\TestDataGenerator.dll
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\obj\Debug\net5.0\TestDataGenerator.pdb
+G:\Sasha\Git\TestDataGenerator\TestDataGenerator\TestDataGenerator\obj\Debug\net5.0\TestDataGenerator.genruntimeconfig.cache
